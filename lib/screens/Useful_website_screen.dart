@@ -9,7 +9,7 @@ class UsefulWebsiteScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Useful Fullforms'),
+        title: const Text('Useful Websites'),
       ),
       body: ListView(
         children: const [
